@@ -1,5 +1,5 @@
 {
-    "name": "luoyy/gtpush",
+    "name": "imnpc/gtpush",
     "description": "getui Push",
     "require": {
         "php": ">=7.2.0",
